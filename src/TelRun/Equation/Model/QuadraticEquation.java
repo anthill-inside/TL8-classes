@@ -30,6 +30,7 @@ public class QuadraticEquation {
             return 0;
         }
     }
+    //1!
 
     public double[] solve() {
         double d = delta();
